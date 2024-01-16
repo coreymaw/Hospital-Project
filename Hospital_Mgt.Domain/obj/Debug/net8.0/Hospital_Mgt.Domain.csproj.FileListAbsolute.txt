@@ -1,0 +1,12 @@
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/bin/Debug/net8.0/Hospital_Mgt.Domain.deps.json
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/bin/Debug/net8.0/Hospital_Mgt.Domain.dll
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/bin/Debug/net8.0/Hospital_Mgt.Domain.pdb
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.AssemblyInfoInputs.cache
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.AssemblyInfo.cs
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.csproj.CoreCompileInputs.cache
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.dll
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/refint/Hospital_Mgt.Domain.dll
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.pdb
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/ref/Hospital_Mgt.Domain.dll
+/home/corey/Documents/devs/Hospital_Mgt/Hospital_Mgt.Domain/obj/Debug/net8.0/Hospital_Mgt.Domain.csproj.AssemblyReference.cache

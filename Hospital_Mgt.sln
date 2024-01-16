@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_Mgt.Api", "Hospital_Mgt.Api\Hospital_Mgt.Api.csproj", "{A323D68A-14DF-4C69-BEF4-BDABB6EE1B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_Mgt.Domain", "Hospital_Mgt.Domain\Hospital_Mgt.Domain.csproj", "{A4DBA618-190A-433B-BD2B-1DCD9BCA666E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A323D68A-14DF-4C69-BEF4-BDABB6EE1B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A323D68A-14DF-4C69-BEF4-BDABB6EE1B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A323D68A-14DF-4C69-BEF4-BDABB6EE1B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A323D68A-14DF-4C69-BEF4-BDABB6EE1B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DBA618-190A-433B-BD2B-1DCD9BCA666E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DBA618-190A-433B-BD2B-1DCD9BCA666E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DBA618-190A-433B-BD2B-1DCD9BCA666E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DBA618-190A-433B-BD2B-1DCD9BCA666E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
